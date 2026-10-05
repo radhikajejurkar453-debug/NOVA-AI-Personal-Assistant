@@ -1,0 +1,1384 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "hello Nova",
+        "hi Nova",
+        "hey Nova",
+        "good morning",
+        "good afternoon",
+        "good evening",
+        "morning Nova",
+        "evening Nova",
+        "are you there",
+        "anyone there",
+        "hello there",
+        "hey there",
+        "hi there",
+        "greetings",
+        "start Nova",
+        "Nova are you there",
+        "wake up Nova",
+        "good day",
+        "nice to meet you",
+        "hello again",
+        "hi again",
+        "hey again",
+        "Nova hello"
+      ],
+      "responses": [
+        "Hello! How can I help you?",
+        "Hi! I am Nova. What can I do for you?",
+        "Hey! Nice to hear from you.",
+        "Hello! I am ready to assist you."
+      ]
+    },
+
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "bye",
+        "goodbye",
+        "see you",
+        "see you later",
+        "good night",
+        "exit",
+        "quit",
+        "close Nova",
+        "stop Nova",
+        "shutdown Nova",
+        "bye Nova",
+        "talk to you later",
+        "I am leaving",
+        "end session",
+        "stop assistant",
+        "I will go now",
+        "talk later",
+        "see you tomorrow",
+        "have a good night",
+        "end the conversation",
+        "close the assistant"
+      ],
+      "responses": [
+        "Goodbye!",
+        "See you later!",
+        "Bye! Have a great day.",
+        "Take care!"
+      ]
+    },
+
+    {
+      "tag": "thanks",
+      "patterns": [
+        "thank you",
+        "thanks",
+        "thank you Nova",
+        "thanks Nova",
+        "I appreciate it",
+        "many thanks",
+        "thanks a lot",
+        "thank you so much",
+        "that's helpful",
+        "that helps",
+        "much appreciated",
+        "I am grateful",
+        "thanks for your help",
+        "I appreciate your help",
+        "you were helpful"
+      ],
+      "responses": [
+        "You're welcome!",
+        "Happy to help!",
+        "Anytime!",
+        "Glad I could help."
+      ]
+    },
+
+    {
+      "tag": "how_are_you",
+      "patterns": [
+        "how are you",
+        "how are you doing",
+        "are you okay",
+        "are you fine",
+        "how do you feel",
+        "are you doing well",
+        "how is it going",
+        "how are things",
+        "are you working",
+        "are you working fine",
+        "how is your day",
+        "how are you Nova",
+        "you okay Nova"
+      ],
+      "responses": [
+        "I am doing great and ready to help!",
+        "I'm functioning perfectly. How can I assist you?",
+        "I am fine. Thanks for asking!"
+      ]
+    },
+
+    {
+      "tag": "identity",
+      "patterns": [
+        "who are you",
+        "what are you",
+        "tell me about yourself",
+        "what is your name",
+        "tell me your name",
+        "who is Nova",
+        "introduce yourself",
+        "are you an AI",
+        "are you a robot",
+        "what should I call you",
+        "what are you called",
+        "your name please",
+        "may I know your name",
+        "what is your full name"
+      ],
+      "responses": [
+        "I am Nova, an AI-powered personal assistant.",
+        "My name is Nova. I am designed to assist you with tasks, information and automation.",
+        "I am an AI personal assistant created using Python and machine learning."
+      ]
+    },
+
+    {
+      "tag": "creator",
+      "patterns": [
+        "who created you",
+        "who made you",
+        "who developed you",
+        "who built you",
+        "who is your developer",
+        "who programmed you",
+        "who developed Nova",
+        "who created Nova"
+      ],
+      "responses": [
+        "I was developed as a personal AI assistant project.",
+        "My developer created me using Python, machine learning and automation technologies.",
+        "I am a custom AI assistant developed as a Python project."
+      ]
+    },
+
+    {
+      "tag": "capabilities",
+      "patterns": [
+        "what can you do",
+        "what are your capabilities",
+        "what are your abilities",
+        "what can you help me with",
+        "what services do you provide",
+        "tell me your features",
+        "what features do you have",
+        "what functions do you have",
+        "what tasks can you perform",
+        "how can you help me",
+        "what is your purpose",
+        "tell me about your purpose",
+        "show me what you can do",
+        "list your features",
+        "what commands do you understand",
+        "which tasks can you perform"
+      ],
+      "responses": [
+        "I can help with automation, searches, weather, music and other tasks.",
+        "I can perform several tasks and assist you with your commands.",
+        "I can answer questions, open websites, perform automation tasks and interact with you using voice."
+      ]
+    },
+
+    {
+      "tag": "help",
+      "patterns": [
+        "help me",
+        "I need help",
+        "can you help me",
+        "help",
+        "what should I do",
+        "I need assistance",
+        "assist me",
+        "please help",
+        "Nova help me",
+        "how can you assist",
+        "can you assist me",
+        "I need some assistance",
+        "please assist me",
+        "help me please",
+        "I need some help",
+        "help me out"
+      ],
+      "responses": [
+        "Of course. Tell me what you need help with.",
+        "Sure, I am here to help.",
+        "I'm listening. Please explain what you need."
+      ]
+    },
+
+    {
+      "tag": "time",
+      "patterns": [
+        "what time is it",
+        "tell me the time",
+        "current time",
+        "what is the time",
+        "what is the time now",
+        "show me the time",
+        "give me the current time",
+        "what's the time",
+        "time please",
+        "what time is it right now",
+        "Nova what time is it",
+        "Nova tell me the time",
+        "please tell me the time",
+        "can you tell me the time",
+        "could you tell me the time"
+      ],
+      "responses": [
+        "Let me check the current time for you.",
+        "The current time can be displayed using the system clock."
+      ]
+    },
+
+    {
+      "tag": "date",
+      "patterns": [
+        "what is today's date",
+        "tell me today's date",
+        "tell me the date",
+        "can you tell me the date",
+        "what date is it",
+        "today's date",
+        "show today's date",
+        "give me today's date",
+        "what day is today",
+        "current date",
+        "what is the date today",
+        "Nova what is the date",
+        "please tell me the date",
+        "can you tell me today's date",
+        "what is today's date right now"
+      ],
+      "responses": [
+        "Let me check today's date for you.",
+        "I can check the current system date."
+      ]
+    },
+
+    {
+      "tag": "weather",
+      "patterns": [
+        "what is the weather",
+        "how is the weather",
+        "tell me the weather",
+        "weather today",
+        "weather forecast",
+        "current weather",
+        "weather report",
+        "is it raining",
+        "will it rain today",
+        "temperature today",
+        "what is the temperature",
+        "check weather",
+        "check temperature",
+        "show weather",
+        "what is today's weather",
+        "can you check the weather",
+        "what is the weather right now"
+      ],
+      "responses": [
+        "Tell me the city and I can check its current weather.",
+        "I can check the current weather for you.",
+        "Let me get the latest weather information."
+      ]
+    },
+
+    {
+      "tag": "weather_city",
+      "patterns": [
+        "weather in Mumbai",
+        "weather in Pune",
+        "weather in Delhi",
+        "weather in London",
+        "temperature in Mumbai",
+        "temperature in Pune",
+        "weather for Mumbai",
+        "weather for Pune"
+      ],
+      "responses": [
+        "I can check the weather for the city you specify."
+      ]
+    },
+
+    {
+      "tag": "joke",
+      "patterns": [
+        "tell me a joke",
+        "can you tell me a joke",
+        "make me laugh",
+        "say something funny",
+        "give me a joke",
+        "do you know any jokes",
+        "tell me something funny",
+        "say a joke",
+        "tell a funny joke"
+      ],
+      "responses": [
+        "Why did the programmer quit his job? Because he didn't get arrays!",
+        "Why do programmers prefer dark mode? Because light attracts bugs!",
+        "I would tell you a UDP joke, but you might not get it.",
+        "Why did the computer go to the doctor? Because it had a virus!"
+      ]
+    },
+
+    {
+      "tag": "motivation",
+      "patterns": [
+        "motivate me",
+        "give me motivation",
+        "I need motivation",
+        "motivation quote",
+        "say something motivational",
+        "I feel lazy",
+        "encourage me"
+      ],
+      "responses": [
+        "Every expert was once a beginner. Keep going!",
+        "Small progress is still progress.",
+        "Don't wait for motivation. Start, and motivation will follow.",
+        "You can do it. Take one step at a time."
+      ]
+    },
+
+    {
+      "tag": "study",
+      "patterns": [
+        "help me study",
+        "I want to study",
+        "how should I study",
+        "give me study tips",
+        "study plan",
+        "how can I concentrate",
+        "help me focus",
+        "study help",
+        "help with my studies",
+        "help me learn"
+      ],
+      "responses": [
+        "Try studying in focused sessions with short breaks.",
+        "Start with the most important topic and avoid distractions.",
+        "Set a small goal for each study session.",
+        "Sure. Tell me the subject or topic you want to study."
+      ]
+    },
+
+    {
+      "tag": "programming",
+      "patterns": [
+        "help me code",
+        "coding help",
+        "programming help",
+        "I have a coding problem",
+        "help with programming",
+        "I need coding help",
+        "help me with programming"
+      ],
+      "responses": [
+        "Sure. Send me the coding problem or error and I will help you."
+      ]
+    },
+
+    {
+      "tag": "python",
+      "patterns": [
+        "what is Python",
+        "tell me about Python",
+        "what is Python programming",
+        "why learn Python",
+        "Python language",
+        "Python programming",
+        "can you explain Python",
+        "can you tell me about Python"
+      ],
+      "responses": [
+        "Python is a high-level programming language known for its simple syntax and wide range of applications.",
+        "Python is commonly used for data science, machine learning, web development, automation and AI."
+      ]
+    },
+
+    {
+      "tag": "machine_learning",
+      "patterns": [
+        "what is machine learning",
+        "explain machine learning",
+        "define machine learning",
+        "how does machine learning work",
+        "what is ML",
+        "tell me about ML"
+      ],
+      "responses": [
+        "Machine learning is a branch of AI where computers learn patterns from data to make predictions or decisions.",
+        "Machine learning allows systems to learn from data instead of being explicitly programmed for every situation."
+      ]
+    },
+
+    {
+      "tag": "artificial_intelligence",
+      "patterns": [
+        "what is artificial intelligence",
+        "what is AI",
+        "explain AI",
+        "define artificial intelligence",
+        "how does AI work",
+        "tell me about artificial intelligence"
+      ],
+      "responses": [
+        "Artificial intelligence is the field of creating systems that can perform tasks that normally require human intelligence.",
+        "AI includes areas such as machine learning, natural language processing, computer vision and robotics."
+      ]
+    },
+
+    {
+      "tag": "data_science",
+      "patterns": [
+        "what is data science",
+        "explain data science",
+        "define data science",
+        "what does a data scientist do",
+        "tell me about data science",
+        "data science meaning"
+      ],
+      "responses": [
+        "Data science combines statistics, programming, machine learning and domain knowledge to extract useful insights from data.",
+        "A data scientist collects, cleans, analyzes and models data to solve problems and support decisions."
+      ]
+    },
+
+    {
+      "tag": "nlp",
+      "patterns": [
+        "what is NLP",
+        "what is natural language processing",
+        "explain NLP",
+        "how does NLP work",
+        "what is natural language processing used for"
+      ],
+      "responses": [
+        "Natural Language Processing, or NLP, allows computers to process and understand human language.",
+        "NLP is used in chatbots, voice assistants, translation, sentiment analysis and text classification."
+      ]
+    },
+
+    {
+      "tag": "deep_learning",
+      "patterns": [
+        "what is deep learning",
+        "explain deep learning",
+        "what are neural networks",
+        "what is a neural network",
+        "deep learning meaning"
+      ],
+      "responses": [
+        "Deep learning is a type of machine learning that uses neural networks with multiple layers.",
+        "Deep learning is widely used for image recognition, speech recognition, NLP and generative AI."
+      ]
+    },
+
+    {
+      "tag": "data_analytics",
+      "patterns": [
+        "what is data analytics",
+        "explain data analytics",
+        "what does a data analyst do",
+        "data analysis meaning",
+        "what is data analysis"
+      ],
+      "responses": [
+        "Data analytics involves examining data to discover patterns, trends and useful insights.",
+        "Data analysts commonly use Python, SQL, Excel, Power BI, Tableau and statistical techniques."
+      ]
+    },
+
+    {
+      "tag": "pandas",
+      "patterns": [
+        "what is pandas",
+        "what is pandas in Python",
+        "explain pandas",
+        "why use pandas",
+        "pandas library"
+      ],
+      "responses": [
+        "Pandas is a Python library used for data manipulation and analysis.",
+        "Pandas provides powerful data structures such as DataFrame and Series."
+      ]
+    },
+
+    {
+      "tag": "numpy",
+      "patterns": [
+        "what is numpy",
+        "what is numpy used for",
+        "explain numpy",
+        "numpy library",
+        "why use numpy"
+      ],
+      "responses": [
+        "NumPy is a Python library used for numerical computing and array operations.",
+        "NumPy provides efficient multidimensional arrays and mathematical functions."
+      ]
+    },
+
+    {
+      "tag": "matplotlib",
+      "patterns": [
+        "what is matplotlib",
+        "what is matplotlib used for",
+        "explain matplotlib",
+        "matplotlib library",
+        "how is matplotlib used"
+      ],
+      "responses": [
+        "Matplotlib is a Python library used to create graphs and visualizations.",
+        "It can create line charts, bar charts, scatter plots, histograms and many other visualizations."
+      ]
+    },
+
+    {
+      "tag": "streamlit",
+      "patterns": [
+        "what is streamlit",
+        "what is streamlit used for",
+        "explain streamlit",
+        "streamlit Python",
+        "why use streamlit"
+      ],
+      "responses": [
+        "Streamlit is a Python framework for quickly creating interactive data and machine learning web applications.",
+        "Streamlit allows you to turn Python scripts into interactive web apps with relatively little code."
+      ]
+    },
+
+    {
+      "tag": "sql",
+      "patterns": [
+        "what is SQL",
+        "what is MySQL",
+        "explain SQL",
+        "what is database",
+        "what is MySQL used for",
+        "SQL meaning"
+      ],
+      "responses": [
+        "SQL is a language used to manage and query relational databases.",
+        "MySQL is a relational database management system that uses SQL."
+      ]
+    },
+
+    {
+      "tag": "github",
+      "patterns": [
+        "what is GitHub",
+        "what is Git",
+        "explain GitHub",
+        "what is GitHub used for",
+        "how does GitHub work",
+        "why use GitHub"
+      ],
+      "responses": [
+        "GitHub is a platform for hosting, managing and collaborating on software projects using Git.",
+        "Git is a version control system, while GitHub provides online repositories and collaboration features."
+      ]
+    },
+
+    {
+      "tag": "internship",
+      "patterns": [
+        "how can I get an internship",
+        "where can I find internships",
+        "data science internship",
+        "machine learning internship",
+        "Python internship",
+        "how to apply for internship"
+      ],
+      "responses": [
+        "Build a strong portfolio, keep your resume updated and apply regularly to relevant internships.",
+        "Projects involving Python, machine learning, data analysis and visualization can strengthen your internship profile."
+      ]
+    },
+
+    {
+      "tag": "resume",
+      "patterns": [
+        "help me with my resume",
+        "how to make a resume",
+        "what should I add to my resume",
+        "resume tips",
+        "how can I improve my resume",
+        "what skills should I add to my resume"
+      ],
+      "responses": [
+        "Keep your resume concise and highlight your skills, projects, education and relevant experience.",
+        "For a data science profile, emphasize Python, SQL, machine learning, data analysis, visualization and practical projects."
+      ]
+    },
+
+    {
+      "tag": "project",
+      "patterns": [
+        "give me a project idea",
+        "data science project idea",
+        "machine learning project",
+        "Python project idea",
+        "AI project idea",
+        "what project should I make"
+      ],
+      "responses": [
+        "You could build a student performance predictor, recommendation system, sentiment analysis application or AI assistant.",
+        "Choose a project that solves a real problem and demonstrates your technical skills."
+      ]
+    },
+
+    {
+      "tag": "Nova_project",
+      "patterns": [
+        "what is Nova",
+        "tell me about Nova",
+        "tell me about the Nova project",
+        "what is the Nova project",
+        "what is Nova project",
+        "how does Nova work",
+        "what technologies does Nova use",
+        "explain Nova",
+        "can you explain Nova project"
+      ],
+      "responses": [
+        "Nova is an AI-powered personal assistant project designed to understand user commands and perform useful tasks.",
+        "Nova combines speech recognition, natural language processing, machine learning, text-to-speech and automation."
+      ]
+    },
+
+    {
+      "tag": "voice_assistant",
+      "patterns": [
+        "what is a voice assistant",
+        "how does a voice assistant work",
+        "how do voice assistants understand speech",
+        "explain voice assistant",
+        "what technology is used in voice assistants"
+      ],
+      "responses": [
+        "A voice assistant listens to speech, converts it into text, processes the user's intent and produces a response or performs an action.",
+        "Voice assistants commonly use speech recognition, NLP, AI and text-to-speech technologies."
+      ]
+    },
+
+    {
+      "tag": "speech_recognition",
+      "patterns": [
+        "what is speech recognition",
+        "explain speech recognition",
+        "how does speech recognition work",
+        "speech to text",
+        "what is speech to text"
+      ],
+      "responses": [
+        "Speech recognition converts spoken language into text that a computer can process.",
+        "It is commonly used in voice assistants, transcription systems and accessibility tools."
+      ]
+    },
+
+    {
+      "tag": "text_to_speech",
+      "patterns": [
+        "what is text to speech",
+        "what is TTS",
+        "explain text to speech",
+        "how does text to speech work",
+        "speech synthesis"
+      ],
+      "responses": [
+        "Text-to-speech converts written text into spoken audio.",
+        "TTS allows applications such as Nova to respond using a human-like voice."
+      ]
+    },
+
+    {
+      "tag": "automation",
+      "patterns": [
+        "what is automation",
+        "explain automation",
+        "what is browser automation",
+        "can you automate tasks",
+        "what is computer automation"
+      ],
+      "responses": [
+        "Automation allows software to perform repetitive tasks automatically.",
+        "Browser and desktop automation can be used to open websites, click buttons, enter text and perform repetitive actions."
+      ]
+    },
+
+    {
+      "tag": "google_search",
+      "patterns": [
+        "search in Google",
+        "search on Google",
+        "Google search",
+        "search Google",
+        "look this up on Google",
+        "find this on Google",
+        "Google it",
+        "search this on Google",
+        "look it up",
+        "search the web",
+        "find information online",
+        "search online"
+      ],
+      "responses": [
+        "Sure, I can search Google for you."
+      ]
+    },
+
+    {
+      "tag": "open_website",
+      "patterns": [
+        "open website",
+        "open a website",
+        "open site",
+        "open a site",
+        "open web page"
+      ],
+      "responses": [
+        "Sure, which website should I open?"
+      ]
+    },
+
+    {
+      "tag": "open_google",
+      "patterns": [
+        "open Google",
+        "launch Google",
+        "go to Google",
+        "start Google",
+        "open Google website"
+      ],
+      "responses": [
+        "Sure, opening Google."
+      ]
+    },
+
+    {
+      "tag": "open_youtube",
+      "patterns": [
+        "open YouTube",
+        "launch YouTube",
+        "go to YouTube",
+        "start YouTube",
+        "open YouTube website"
+      ],
+      "responses": [
+        "Sure, opening YouTube."
+      ]
+    },
+
+    {
+      "tag": "open_github",
+      "patterns": [
+        "open GitHub",
+        "launch GitHub",
+        "go to GitHub",
+        "start GitHub",
+        "open GitHub website"
+      ],
+      "responses": [
+        "Sure, opening GitHub."
+      ]
+    },
+
+    {
+      "tag": "open_pycharm",
+      "patterns": [
+        "open PyCharm",
+        "launch PyCharm",
+        "start PyCharm",
+        "open my PyCharm",
+        "run PyCharm"
+      ],
+      "responses": [
+        "Sure, I can open PyCharm if it is configured in your automation."
+      ]
+    },
+
+    {
+      "tag": "music",
+      "patterns": [
+        "play music",
+        "play a song",
+        "I want music",
+        "start music",
+        "play some music",
+        "open music",
+        "play my music"
+      ],
+      "responses": [
+        "Sure, let's play some music.",
+        "Playing music."
+      ]
+    },
+
+    {
+      "tag": "youtube_search",
+      "patterns": [
+        "search YouTube",
+        "search on YouTube",
+        "search in YouTube",
+        "find on YouTube",
+        "YouTube search"
+      ],
+      "responses": [
+        "Sure, I can search YouTube for you."
+      ]
+    },
+
+    {
+      "tag": "youtube_play",
+      "patterns": [
+        "play a YouTube video",
+        "play video on YouTube",
+        "play YouTube",
+        "start YouTube video",
+        "play this video"
+      ],
+      "responses": [
+        "Sure, I can play a YouTube video for you."
+      ]
+    },
+
+    {
+      "tag": "youtube_pause",
+      "patterns": [
+        "pause YouTube",
+        "pause the video",
+        "pause video",
+        "pause YouTube video",
+        "stop the YouTube video"
+      ],
+      "responses": [
+        "Sure, I can pause the video."
+      ]
+    },
+
+    {
+      "tag": "youtube_resume",
+      "patterns": [
+        "resume YouTube",
+        "resume the video",
+        "continue YouTube",
+        "continue the video",
+        "play the video again"
+      ],
+      "responses": [
+        "Sure, I can resume playback."
+      ]
+    },
+
+    {
+      "tag": "battery",
+      "patterns": [
+        "check battery",
+        "battery percentage",
+        "check battery percentage",
+        "how much battery is left",
+        "what is my battery level"
+      ],
+      "responses": [
+        "I can check the battery percentage for you."
+      ]
+    },
+
+    {
+      "tag": "battery_alert",
+      "patterns": [
+        "battery alert",
+        "start battery alert",
+        "enable battery alert",
+        "turn on battery alert",
+        "monitor battery level"
+      ],
+      "responses": [
+        "I can start monitoring the battery level for you."
+      ]
+    },
+
+    {
+      "tag": "battery_plug",
+      "patterns": [
+        "check battery plug",
+        "is charger connected",
+        "check charger",
+        "is my laptop plugged in",
+        "check power connection"
+      ],
+      "responses": [
+        "I can check the battery and charging status."
+      ]
+    },
+
+    {
+      "tag": "internet",
+      "patterns": [
+        "check internet",
+        "is internet working",
+        "check internet connection",
+        "internet status",
+        "is my internet connected"
+      ],
+      "responses": [
+        "I can check your internet connection."
+      ]
+    },
+
+    {
+      "tag": "internet_speed",
+      "patterns": [
+        "check internet speed",
+        "internet speed",
+        "test internet speed",
+        "how fast is my internet",
+        "measure internet speed"
+      ],
+      "responses": [
+        "I can check your internet speed."
+      ]
+    },
+
+    {
+      "tag": "clap_detection",
+      "patterns": [
+        "clap detection",
+        "detect claps",
+        "listen for claps",
+        "start clap detector",
+        "two claps"
+      ],
+      "responses": [
+        "I can listen for the configured clap pattern and trigger Nova when it is detected."
+      ]
+    },
+
+    {
+      "tag": "random_music_clap",
+      "patterns": [
+        "clap to play music",
+        "two claps play music",
+        "play music with claps",
+        "clap twice to play music",
+        "use claps for music"
+      ],
+      "responses": [
+        "Two detected claps can be used to trigger your music function."
+      ]
+    },
+
+    {
+      "tag": "computer_shutdown",
+      "patterns": [
+        "shutdown computer",
+        "shut down my computer",
+        "turn off computer",
+        "power off computer",
+        "shutdown the PC"
+      ],
+      "responses": [
+        "I can handle the shutdown command if your automation is configured for it."
+      ]
+    },
+
+    {
+      "tag": "computer_restart",
+      "patterns": [
+        "restart computer",
+        "restart my PC",
+        "reboot computer",
+        "restart the PC",
+        "reboot my laptop"
+      ],
+      "responses": [
+        "I can handle the restart command if your automation is configured for it."
+      ]
+    },
+
+    {
+      "tag": "lock_computer",
+      "patterns": [
+        "lock computer",
+        "lock my PC",
+        "lock the screen",
+        "lock my laptop",
+        "lock the computer"
+      ],
+      "responses": [
+        "I can handle the screen-lock command if your automation is configured for it."
+      ]
+    },
+
+    {
+      "tag": "volume_up",
+      "patterns": [
+        "increase volume",
+        "turn volume up",
+        "make it louder",
+        "volume up",
+        "raise the volume"
+      ],
+      "responses": [
+        "I can increase the system volume if your automation supports it."
+      ]
+    },
+
+    {
+      "tag": "volume_down",
+      "patterns": [
+        "decrease volume",
+        "turn volume down",
+        "make it quieter",
+        "volume down",
+        "lower the volume"
+      ],
+      "responses": [
+        "I can decrease the system volume if your automation supports it."
+      ]
+    },
+
+    {
+      "tag": "mute",
+      "patterns": [
+        "mute",
+        "mute sound",
+        "mute volume",
+        "turn off sound",
+        "silence the computer"
+      ],
+      "responses": [
+        "I can mute the system audio if your automation supports it."
+      ]
+    },
+
+    {
+      "tag": "screenshot",
+      "patterns": [
+        "take a screenshot",
+        "capture the screen",
+        "screenshot",
+        "take screenshot",
+        "capture screen"
+      ],
+      "responses": [
+        "I can take a screenshot if the screenshot automation is configured."
+      ]
+    },
+
+    {
+      "tag": "file_search",
+      "patterns": [
+        "find a file",
+        "search for a file",
+        "locate a file",
+        "find my file",
+        "search files"
+      ],
+      "responses": [
+        "Tell me the file or document name you want to find."
+      ]
+    },
+
+    {
+      "tag": "calculator",
+      "patterns": [
+        "calculate",
+        "calculate this",
+        "do a calculation",
+        "open calculator",
+        "solve this calculation",
+        "what is 25 plus 30",
+        "calculate 100 divided by 5"
+      ],
+      "responses": [
+        "Sure, give me the calculation.",
+        "I can help you with mathematical calculations."
+      ]
+    },
+
+    {
+      "tag": "set_reminder",
+      "patterns": [
+        "set a reminder",
+        "remind me",
+        "create a reminder",
+        "make a reminder",
+        "set reminder"
+      ],
+      "responses": [
+        "Sure, tell me what you want to be reminded about and when."
+      ]
+    },
+
+    {
+      "tag": "alarm",
+      "patterns": [
+        "set an alarm",
+        "create an alarm",
+        "wake me up",
+        "set alarm",
+        "alarm please"
+      ],
+      "responses": [
+        "Sure, tell me the time for the alarm."
+      ]
+    },
+
+    {
+      "tag": "news",
+      "patterns": [
+        "show me the news",
+        "latest news",
+        "tell me the news",
+        "can you tell me the news",
+        "news today"
+      ],
+      "responses": [
+        "I can help you search for the latest news."
+      ]
+    },
+
+    {
+      "tag": "search_information",
+      "patterns": [
+        "search for information",
+        "find information",
+        "look for information",
+        "search something",
+        "find something online"
+      ],
+      "responses": [
+        "Sure, tell me what you want to search for."
+      ]
+    },
+
+    {
+      "tag": "password",
+      "patterns": [
+        "how can I create a strong password",
+        "strong password",
+        "password security",
+        "how to protect my password",
+        "make a secure password"
+      ],
+      "responses": [
+        "Use a long, unique password and avoid reusing it across websites.",
+        "Consider using a reputable password manager to generate and store unique passwords."
+      ]
+    },
+
+    {
+      "tag": "privacy",
+      "patterns": [
+        "what is privacy",
+        "how can I protect my privacy",
+        "online privacy",
+        "internet privacy",
+        "how to stay private online"
+      ],
+      "responses": [
+        "Use strong passwords, enable two-factor authentication and be careful about the information you share online.",
+        "Review app permissions and privacy settings regularly."
+      ]
+    },
+
+    {
+      "tag": "security",
+      "patterns": [
+        "what is cybersecurity",
+        "how can I stay safe online",
+        "online security",
+        "computer security",
+        "cybersecurity tips",
+        "how to protect my computer"
+      ],
+      "responses": [
+        "Keep your operating system and applications updated, use strong passwords and avoid suspicious links and downloads.",
+        "Enable multi-factor authentication whenever possible."
+      ]
+    },
+
+    {
+      "tag": "affirmation",
+      "patterns": [
+        "yes",
+        "yeah",
+        "yep",
+        "sure",
+        "okay",
+        "ok"
+      ],
+      "responses": [
+        "Okay.",
+        "Sure.",
+        "Got it."
+      ]
+    },
+
+    {
+      "tag": "negative",
+      "patterns": [
+        "no",
+        "no thanks",
+        "not now",
+        "never mind",
+        "cancel"
+      ],
+      "responses": [
+        "Okay, I will stop.",
+        "No problem."
+      ]
+    },
+
+    {
+      "tag": "compliment",
+      "patterns": [
+        "you are good",
+        "you are great",
+        "you are amazing",
+        "good job",
+        "great job Nova",
+        "well done",
+        "nice assistant",
+        "good assistant",
+        "nice work Nova",
+        "well done Nova"
+      ],
+      "responses": [
+        "Thank you!",
+        "I am glad I could help.",
+        "That means a lot. What would you like to do next?"
+      ]
+    },
+
+    {
+      "tag": "unknown",
+      "patterns": [
+        "I don't understand",
+        "I don't know",
+        "I have a question",
+        "something is wrong",
+        "what should I ask"
+      ],
+      "responses": [
+        "Sure. Tell me what you need help with.",
+        "I'm listening. Please explain what you need.",
+        "Go ahead and ask your question."
+      ]
+    },
+
+    {
+      "tag": "open_file",
+      "patterns": [
+        "open a file",
+        "open my file",
+        "open document",
+        "open folder",
+        "open a folder"
+      ],
+      "responses": [
+        "Sure, tell me the file or folder you want to open."
+      ]
+    },
+
+    {
+      "tag": "close_application",
+      "patterns": [
+        "close application",
+        "close app",
+        "close the program",
+        "exit application",
+        "close this app"
+      ],
+      "responses": [
+        "Sure, I can close the application if it is supported."
+      ]
+    },
+
+    {
+      "tag": "close_application",
+      "patterns": [
+        "close application",
+        "close app",
+        "close the program",
+        "exit application",
+        "close this app"
+      ],
+      "responses": [
+        "Sure, I can close the application if it is supported."
+      ]
+    },
+    {
+      "tag": "volume_mute",
+      "patterns": [
+        "unmute",
+        "turn sound on",
+        "restore sound",
+        "unmute computer"
+      ],
+      "responses": [
+        "I can restore the system audio."
+      ]
+    },
+
+    {
+      "tag": "notes",
+      "patterns": [
+        "take a note",
+        "make a note",
+        "save a note",
+        "write this down",
+        "remember this"
+      ],
+      "responses": [
+        "Sure, tell me what you want me to note."
+      ]
+    },
+
+    {
+      "tag": "todo",
+      "patterns": [
+        "add a task",
+        "create a task",
+        "add to my to do list",
+        "make a to do",
+        "show my tasks"
+      ],
+      "responses": [
+        "Sure, tell me the task."
+      ]
+    },
+
+    {
+      "tag": "calendar",
+      "patterns": [
+        "open calendar",
+        "show my calendar",
+        "check my schedule",
+        "what is on my calendar",
+        "show today's schedule"
+      ],
+      "responses": [
+        "Sure, I can help you check your calendar."
+      ]
+    }
+  ]
+}

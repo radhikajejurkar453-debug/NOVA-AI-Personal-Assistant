@@ -1,0 +1,830 @@
+[
+  {
+    "id": "20260925213431988018",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T21:34:31",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "The charger has been connected.",
+        "time": "2026-09-25T21:34:32"
+      },
+      {
+        "role": "user",
+        "text": "the charger has been connected",
+        "time": "2026-09-25T21:34:38"
+      },
+      {
+        "role": "user",
+        "text": "wow",
+        "time": "2026-09-25T21:34:42"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T21:34:46"
+      },
+      {
+        "role": "nova",
+        "text": "Hello. Please tell me what you need.",
+        "time": "2026-09-25T21:34:46"
+      },
+      {
+        "role": "user",
+        "text": "open collab",
+        "time": "2026-09-25T21:34:59"
+      },
+      {
+        "role": "nova",
+        "text": "Let me open collab",
+        "time": "2026-09-25T21:34:59"
+      },
+      {
+        "role": "user",
+        "text": "open google colab",
+        "time": "2026-09-25T21:35:10"
+      },
+      {
+        "role": "nova",
+        "text": "Opening your requested website: google colab",
+        "time": "2026-09-25T21:35:10"
+      },
+      {
+        "role": "nova",
+        "text": "Opened successfully.",
+        "time": "2026-09-25T21:35:16"
+      },
+      {
+        "role": "user",
+        "text": "we lead them",
+        "time": "2026-09-25T21:35:30"
+      },
+      {
+        "role": "user",
+        "text": "close current window",
+        "time": "2026-09-25T21:35:43"
+      },
+      {
+        "role": "user",
+        "text": "close current tab",
+        "time": "2026-09-25T21:35:57"
+      },
+      {
+        "role": "user",
+        "text": "shutdown",
+        "time": "2026-09-25T21:36:19"
+      },
+      {
+        "role": "nova",
+        "text": "Goodbye...",
+        "time": "2026-09-25T21:36:19"
+      }
+    ]
+  },
+  {
+    "id": "20260925211603783814",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T21:16:03",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "The device is connected to the charger.",
+        "time": "2026-09-25T21:16:03"
+      },
+      {
+        "role": "user",
+        "text": "the device is connected to the charger",
+        "time": "2026-09-25T21:16:10"
+      },
+      {
+        "role": "user",
+        "text": "you know this you",
+        "time": "2026-09-25T21:16:18"
+      },
+      {
+        "role": "user",
+        "text": "kartik ko sarkari",
+        "time": "2026-09-25T21:16:36"
+      },
+      {
+        "role": "user",
+        "text": "there is problem",
+        "time": "2026-09-25T21:16:41"
+      },
+      {
+        "role": "user",
+        "text": "the side",
+        "time": "2026-09-25T21:16:44"
+      },
+      {
+        "role": "user",
+        "text": "unki current conversation",
+        "time": "2026-09-25T21:16:49"
+      },
+      {
+        "role": "user",
+        "text": "or anything",
+        "time": "2026-09-25T21:16:54"
+      },
+      {
+        "role": "user",
+        "text": "like a whatsapp",
+        "time": "2026-09-25T21:16:58"
+      },
+      {
+        "role": "user",
+        "text": "every conversation should be stored i only want the current like from the novaa start to the shutdown only",
+        "time": "2026-09-25T21:17:12"
+      },
+      {
+        "role": "user",
+        "text": "ankit weird like it is making so much space",
+        "time": "2026-09-25T21:17:22"
+      },
+      {
+        "role": "user",
+        "text": "it should only show the current",
+        "time": "2026-09-25T21:17:28"
+      },
+      {
+        "role": "user",
+        "text": "hello hello i should show welcome",
+        "time": "2026-09-25T21:17:38"
+      },
+      {
+        "role": "user",
+        "text": "aur etc",
+        "time": "2026-09-25T21:17:42"
+      },
+      {
+        "role": "user",
+        "text": "and remove the new song conver",
+        "time": "2026-09-25T21:17:49"
+      },
+      {
+        "role": "user",
+        "text": "and the cyber can be",
+        "time": "2026-09-25T21:17:58"
+      },
+      {
+        "role": "user",
+        "text": "extend and suit and make that",
+        "time": "2026-09-25T21:18:05"
+      },
+      {
+        "role": "user",
+        "text": "the",
+        "time": "2026-09-25T21:18:09"
+      },
+      {
+        "role": "user",
+        "text": "when i click on sidebar extend the windows",
+        "time": "2026-09-25T21:18:21"
+      },
+      {
+        "role": "user",
+        "text": "windows it will decrease the window",
+        "time": "2026-09-25T21:18:27"
+      },
+      {
+        "role": "user",
+        "text": "be like",
+        "time": "2026-09-25T21:18:30"
+      },
+      {
+        "role": "user",
+        "text": "i will give one example of this",
+        "time": "2026-09-25T21:18:40"
+      },
+      {
+        "role": "user",
+        "text": "don't know",
+        "time": "2026-09-25T21:18:50"
+      },
+      {
+        "role": "user",
+        "text": "chocolate",
+        "time": "2026-09-25T21:19:13"
+      },
+      {
+        "role": "user",
+        "text": "good",
+        "time": "2026-09-25T21:19:29"
+      },
+      {
+        "role": "user",
+        "text": "important",
+        "time": "2026-09-25T21:20:19"
+      },
+      {
+        "role": "user",
+        "text": "don't be like",
+        "time": "2026-09-25T21:21:06"
+      },
+      {
+        "role": "user",
+        "text": "nobody wants to someone from what us all should go up this beats me my money is no time to a mini don't like ago",
+        "time": "2026-09-25T21:21:31"
+      },
+      {
+        "role": "user",
+        "text": "god",
+        "time": "2026-09-25T21:21:42"
+      },
+      {
+        "role": "user",
+        "text": "domestic",
+        "time": "2026-09-25T21:21:49"
+      },
+      {
+        "role": "user",
+        "text": "you're not gonna lie you do some that",
+        "time": "2026-09-25T21:22:03"
+      },
+      {
+        "role": "user",
+        "text": "it will do",
+        "time": "2026-09-25T21:22:11"
+      },
+      {
+        "role": "user",
+        "text": "the with a bunch of already that she shoot down the job and one of the pizza",
+        "time": "2026-09-25T21:22:52"
+      },
+      {
+        "role": "user",
+        "text": "let's give me",
+        "time": "2026-09-25T21:23:14"
+      },
+      {
+        "role": "user",
+        "text": "them",
+        "time": "2026-09-25T21:23:23"
+      },
+      {
+        "role": "user",
+        "text": "the post",
+        "time": "2026-09-25T21:23:27"
+      },
+      {
+        "role": "user",
+        "text": "most of the some",
+        "time": "2026-09-25T21:23:39"
+      },
+      {
+        "role": "user",
+        "text": "aapane kattar shatru",
+        "time": "2026-09-25T21:25:26"
+      },
+      {
+        "role": "user",
+        "text": "signature move",
+        "time": "2026-09-25T21:25:51"
+      },
+      {
+        "role": "user",
+        "text": "we dog on a member of the paper",
+        "time": "2026-09-25T21:26:05"
+      },
+      {
+        "role": "user",
+        "text": "you go",
+        "time": "2026-09-25T21:26:09"
+      },
+      {
+        "role": "user",
+        "text": "joked about doing",
+        "time": "2026-09-25T21:26:19"
+      },
+      {
+        "role": "user",
+        "text": "agree",
+        "time": "2026-09-25T21:26:31"
+      },
+      {
+        "role": "user",
+        "text": "just what",
+        "time": "2026-09-25T21:26:46"
+      },
+      {
+        "role": "user",
+        "text": "don't know was or wasn't wasn't because of you don't get has to forbidden",
+        "time": "2026-09-25T21:27:24"
+      },
+      {
+        "role": "user",
+        "text": "was doesn't have it would have a smoker yeah",
+        "time": "2026-09-25T21:27:36"
+      },
+      {
+        "role": "user",
+        "text": "why did they want to do not been so happy",
+        "time": "2026-09-25T21:27:55"
+      },
+      {
+        "role": "user",
+        "text": "so what do so much about get the kitchen i'm sure to should be a little something to most of the moment on a computer game on majority",
+        "time": "2026-09-25T21:28:15"
+      },
+      {
+        "role": "user",
+        "text": "it's a woman the ocean",
+        "time": "2026-09-25T21:28:29"
+      },
+      {
+        "role": "user",
+        "text": "looks a bit",
+        "time": "2026-09-25T21:29:03"
+      },
+      {
+        "role": "user",
+        "text": "what's an investment",
+        "time": "2026-09-25T21:29:17"
+      },
+      {
+        "role": "user",
+        "text": "that",
+        "time": "2026-09-25T21:29:32"
+      },
+      {
+        "role": "user",
+        "text": "he wasn't",
+        "time": "2026-09-25T21:29:39"
+      },
+      {
+        "role": "user",
+        "text": "yeah",
+        "time": "2026-09-25T21:29:54"
+      },
+      {
+        "role": "user",
+        "text": "enjoy your own daughter got few zombie similar to georgia",
+        "time": "2026-09-25T21:30:10"
+      },
+      {
+        "role": "user",
+        "text": "shut",
+        "time": "2026-09-25T21:30:24"
+      },
+      {
+        "role": "user",
+        "text": "shut",
+        "time": "2026-09-25T21:30:29"
+      },
+      {
+        "role": "user",
+        "text": "shut",
+        "time": "2026-09-25T21:30:33"
+      },
+      {
+        "role": "user",
+        "text": "close",
+        "time": "2026-09-25T21:30:38"
+      },
+      {
+        "role": "user",
+        "text": "i don't",
+        "time": "2026-09-25T21:30:46"
+      },
+      {
+        "role": "user",
+        "text": "shutdown",
+        "time": "2026-09-25T21:31:24"
+      }
+    ]
+  },
+  {
+    "id": "20260925211450321064",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T21:14:50",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "The charger has been connected.",
+        "time": "2026-09-25T21:14:50"
+      },
+      {
+        "role": "user",
+        "text": "the charter has been connected",
+        "time": "2026-09-25T21:14:57"
+      },
+      {
+        "role": "user",
+        "text": "that",
+        "time": "2026-09-25T21:15:00"
+      },
+      {
+        "role": "user",
+        "text": "hello novaa",
+        "time": "2026-09-25T21:15:06"
+      },
+      {
+        "role": "user",
+        "text": "why",
+        "time": "2026-09-25T21:15:16"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T21:15:20"
+      },
+      {
+        "role": "nova",
+        "text": "Welcome back. How can I help?",
+        "time": "2026-09-25T21:15:20"
+      },
+      {
+        "role": "user",
+        "text": "the some been one of and social mobility",
+        "time": "2026-09-25T21:15:40"
+      },
+      {
+        "role": "user",
+        "text": "two",
+        "time": "2026-09-25T21:15:45"
+      },
+      {
+        "role": "user",
+        "text": "otherwise",
+        "time": "2026-09-25T21:15:52"
+      }
+    ]
+  },
+  {
+    "id": "20260925210821417293",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T21:08:21",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "Charging has started.",
+        "time": "2026-09-25T21:08:21"
+      },
+      {
+        "role": "user",
+        "text": "what's new a charging has started",
+        "time": "2026-09-25T21:08:28"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T21:08:40"
+      },
+      {
+        "role": "nova",
+        "text": "Good to see you. How can I help?",
+        "time": "2026-09-25T21:08:40"
+      },
+      {
+        "role": "user",
+        "text": "come",
+        "time": "2026-09-25T21:08:54"
+      },
+      {
+        "role": "user",
+        "text": "tv loki pura puri",
+        "time": "2026-09-25T21:09:02"
+      },
+      {
+        "role": "user",
+        "text": "that's not been lucky girl and supported by the us are you illegal",
+        "time": "2026-09-25T21:09:12"
+      },
+      {
+        "role": "user",
+        "text": "good that money",
+        "time": "2026-09-25T21:09:22"
+      },
+      {
+        "role": "user",
+        "text": "the group or the media guy you choose our careers are you willing to let people exactly",
+        "time": "2026-09-25T21:09:34"
+      },
+      {
+        "role": "user",
+        "text": "what",
+        "time": "2026-09-25T21:10:25"
+      },
+      {
+        "role": "user",
+        "text": "that girl so something the",
+        "time": "2026-09-25T21:11:47"
+      },
+      {
+        "role": "user",
+        "text": "muskaraya",
+        "time": "2026-09-25T21:11:57"
+      },
+      {
+        "role": "user",
+        "text": "what",
+        "time": "2026-09-25T21:12:10"
+      },
+      {
+        "role": "user",
+        "text": "come here",
+        "time": "2026-09-25T21:12:36"
+      },
+      {
+        "role": "user",
+        "text": "september",
+        "time": "2026-09-25T21:12:44"
+      },
+      {
+        "role": "user",
+        "text": "tum",
+        "time": "2026-09-25T21:13:14"
+      },
+      {
+        "role": "user",
+        "text": "what new job on something wicked awesome like a real mom thought about it people of those are the only guy lot of older or",
+        "time": "2026-09-25T21:13:49"
+      },
+      {
+        "role": "user",
+        "text": "what they feel they got three hundred governance up there are no an akita be a lot you",
+        "time": "2026-09-25T21:14:11"
+      }
+    ]
+  },
+  {
+    "id": "20260925210412638241",
+    "title": "charging has started",
+    "created": "2026-09-25T21:04:12",
+    "messages": [
+      {
+        "role": "user",
+        "text": "charging has started",
+        "time": "2026-09-25T21:04:12"
+      },
+      {
+        "role": "user",
+        "text": "okay",
+        "time": "2026-09-25T21:04:28"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T21:04:36"
+      },
+      {
+        "role": "nova",
+        "text": "Hi. What can I do for you?",
+        "time": "2026-09-25T21:04:36"
+      },
+      {
+        "role": "user",
+        "text": "mr",
+        "time": "2026-09-25T21:04:52"
+      },
+      {
+        "role": "user",
+        "text": "i don't want like",
+        "time": "2026-09-25T21:05:04"
+      },
+      {
+        "role": "user",
+        "text": "simple",
+        "time": "2026-09-25T21:05:07"
+      },
+      {
+        "role": "user",
+        "text": "frame around patients with",
+        "time": "2026-09-25T21:05:14"
+      },
+      {
+        "role": "user",
+        "text": "the present conversation should be shown and the past conversation should be shown in sidebar that only i want this current",
+        "time": "2026-09-25T21:05:31"
+      },
+      {
+        "role": "user",
+        "text": "no one",
+        "time": "2026-09-25T21:05:37"
+      },
+      {
+        "role": "user",
+        "text": "double tap and start show new conversation of current",
+        "time": "2026-09-25T21:05:46"
+      },
+      {
+        "role": "user",
+        "text": "that is our land",
+        "time": "2026-09-25T21:06:57"
+      },
+      {
+        "role": "user",
+        "text": "so",
+        "time": "2026-09-25T21:07:03"
+      },
+      {
+        "role": "user",
+        "text": "research",
+        "time": "2026-09-25T21:07:16"
+      },
+      {
+        "role": "user",
+        "text": "forty one minutes got me them",
+        "time": "2026-09-25T21:07:31"
+      },
+      {
+        "role": "user",
+        "text": "she was just the one doing",
+        "time": "2026-09-25T21:07:51"
+      },
+      {
+        "role": "user",
+        "text": "it got a good person",
+        "time": "2026-09-25T21:08:01"
+      }
+    ]
+  },
+  {
+    "id": "20260925210405993550",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T21:04:05",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "Charging has started.",
+        "time": "2026-09-25T21:04:06"
+      }
+    ]
+  },
+  {
+    "id": "20260925205325882831",
+    "title": "the devices connected to the cha...",
+    "created": "2026-09-25T20:53:25",
+    "messages": [
+      {
+        "role": "user",
+        "text": "the devices connected to the charger movie people have been going on",
+        "time": "2026-09-25T20:53:25"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T20:53:32"
+      },
+      {
+        "role": "nova",
+        "text": "Hello. What would you like me to do?",
+        "time": "2026-09-25T20:53:32"
+      },
+      {
+        "role": "user",
+        "text": "novaa what is python",
+        "time": "2026-09-25T20:53:55"
+      },
+      {
+        "role": "nova",
+        "text": "Python is a programming language commonly used for applications, automation, data processing, and artificial intelligence.",
+        "time": "2026-09-25T20:53:55"
+      },
+      {
+        "role": "user",
+        "text": "icon in death",
+        "time": "2026-09-25T20:54:14"
+      },
+      {
+        "role": "user",
+        "text": "novaa what is python in depth",
+        "time": "2026-09-25T20:54:20"
+      },
+      {
+        "role": "nova",
+        "text": "Executive Summary Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing ... Python is a general-purpose programming language you run directly from source, with no compile step to think about and a syntax deliberately close to how you would describe the task out loud. Python is a high-level programming language known for its simple and readable syntax. Python is a general-purpose programming language you run directly from source, with no compile step to think about and a syntax deliberately close to how you would describe the task out loud. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions. Python can be used on a server to create web applications. While building it, I have been learning about APIs, LLMs, memory systems, vector search, threading, and Git.",
+        "time": "2026-09-25T20:54:31"
+      },
+      {
+        "role": "user",
+        "text": "okay",
+        "time": "2026-09-25T20:55:54"
+      },
+      {
+        "role": "user",
+        "text": "my hello i'm gonna be you",
+        "time": "2026-09-25T20:56:08"
+      }
+    ]
+  },
+  {
+    "id": "20260925205048306867",
+    "title": "why why men islands or another t...",
+    "created": "2026-09-25T20:50:48",
+    "messages": [
+      {
+        "role": "user",
+        "text": "why why men islands or another thing number ever",
+        "time": "2026-09-25T20:50:48"
+      },
+      {
+        "role": "user",
+        "text": "this",
+        "time": "2026-09-25T20:50:57"
+      },
+      {
+        "role": "user",
+        "text": "i don't agency this",
+        "time": "2026-09-25T20:51:04"
+      },
+      {
+        "role": "user",
+        "text": "novaa what is python",
+        "time": "2026-09-25T20:51:27"
+      },
+      {
+        "role": "nova",
+        "text": "Python is a programming language commonly used for applications, automation, data processing, and artificial intelligence.",
+        "time": "2026-09-25T20:51:27"
+      },
+      {
+        "role": "user",
+        "text": "novaa what is python in depth",
+        "time": "2026-09-25T20:51:54"
+      },
+      {
+        "role": "nova",
+        "text": "Executive Summary Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing ... Python is a general-purpose programming language you run directly from source, with no compile step to think about and a syntax deliberately close to how you would describe the task out loud. *Nova is an intelligent, local, and customizable voice assistant, fully developed in Python. NOVA-Python is an open-source personal assistant that you can host on your computer. Python 3.0, released in 2008, was a major revision and not completely backward-compatible with earlier versions. Code Issues Packages Projects Releases Wiki Activity 🐍 Python library for accessing the Nova API python 15 commits 1 branch 0 tags 77 KiB Rust 100% main Go to file HTTPS Download ZIP Download TAR.GZ Download BUNDLE Open with VS Code Open with VSCodium Open with Intellij IDEA Cite this repository APA BibTeX Cancel Videos 02:14 Yahoo!",
+        "time": "2026-09-25T20:52:06"
+      }
+    ]
+  },
+  {
+    "id": "20260925204806953057",
+    "title": "Nova Conversation",
+    "created": "2026-09-25T20:48:06",
+    "messages": [
+      {
+        "role": "nova",
+        "text": "The charger has been connected.",
+        "time": "2026-09-25T20:48:06"
+      },
+      {
+        "role": "user",
+        "text": "the charger has been connected",
+        "time": "2026-09-25T20:48:15"
+      },
+      {
+        "role": "user",
+        "text": "the new they don't you know",
+        "time": "2026-09-25T20:48:21"
+      },
+      {
+        "role": "user",
+        "text": "hello nova",
+        "time": "2026-09-25T20:48:27"
+      },
+      {
+        "role": "nova",
+        "text": "Hello. Please tell me what you need.",
+        "time": "2026-09-25T20:48:27"
+      },
+      {
+        "role": "user",
+        "text": "oh man",
+        "time": "2026-09-25T20:48:46"
+      },
+      {
+        "role": "user",
+        "text": "well",
+        "time": "2026-09-25T20:49:17"
+      },
+      {
+        "role": "user",
+        "text": "google",
+        "time": "2026-09-25T20:49:38"
+      },
+      {
+        "role": "user",
+        "text": "the thing is three lines",
+        "time": "2026-09-25T20:49:49"
+      },
+      {
+        "role": "user",
+        "text": "to see the conversation and do not to say the conversation when we when we click that 3 laptop the conversation",
+        "time": "2026-09-25T20:50:05"
+      },
+      {
+        "role": "user",
+        "text": "once again cricket it will be close and",
+        "time": "2026-09-25T20:50:10"
+      },
+      {
+        "role": "user",
+        "text": "we come on",
+        "time": "2026-09-25T20:50:16"
+      },
+      {
+        "role": "user",
+        "text": "one",
+        "time": "2026-09-25T20:50:19"
+      },
+      {
+        "role": "nova",
+        "text": "The device is connected to the charger.",
+        "time": "2026-09-25T20:53:14"
+      }
+    ]
+  }
+]
