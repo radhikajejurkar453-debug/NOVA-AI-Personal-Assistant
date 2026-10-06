@@ -37,7 +37,7 @@ It accepts both voice and text commands, understands the user's request, perform
 
 ## ⚙️ How NOVA Works
 
-```text
+
 User Voice / Text Command
           ↓
 Speech Recognition
@@ -57,7 +57,7 @@ Backend–UI Bridge
    PyQt5 GUI    TTS
        ↓         ↓
 Visual Response  Voice Response
-````
+
 
 ## 🧩 Major Modules
 
@@ -110,7 +110,7 @@ Communicates events and responses between the NOVA backend and the PyQt5 interfa
 
 ## 📁 Project Structure
 
-```text
+
 NOVA-AI-Personal-Assistant/
 │
 ├── Main/
